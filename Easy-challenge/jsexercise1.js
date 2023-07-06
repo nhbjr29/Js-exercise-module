@@ -9,3 +9,9 @@ let isPlayer = true;
 let numbers = [1, 2, 3, 4, 5];
 let person = { name: "Donna", age: 30 };
 console.log(firstName, age, isPlayer, numbers, person);
+
+//Exercise 2: String Manipulation
+let myNameIs = "Aaron";
+let greeting = "Hello, " + myNameIs + "!";
+
+console.log(greeting);
